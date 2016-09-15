@@ -3,4 +3,4 @@ test
 
 テスト用リポジトリ
 
-aiu
+aiueo
